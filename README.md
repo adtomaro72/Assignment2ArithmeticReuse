@@ -2,7 +2,7 @@
 Reusing a python library, https://github.com/thatsmorez/reusable_arithmetic_seng560, of basic arithmetic functions.
   
 # How To Run Project
-1.) Clone the repository to local machine: **git clone https://github.com/adtomaro72/Assignment2ArithmeticReuse.git**
+1.) Clone the repository to local machine: **git clone https://github.com/adtomaro72/Assignment2ArithmeticReuse.git**  
 2.) Change into the directory where the console python app lives: **cd SENG560Assignment2Reuse**
 3.) Run the python app: **python SENG560Assignment2Reuse.py**
 
